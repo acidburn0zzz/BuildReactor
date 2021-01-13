@@ -34,7 +34,7 @@
     "start": "node_modules/webpack-dev-server/bin/webpack-dev-server.js"
   },
   "dependencies": {
-    "angular": "^1.5.8",
+    "angular": "^1.8.0",
     "angular-animate": "^1.5.8",
     "angular-legacy-sortablejs-maintained": "^0.5.2",
     "angular-route": "^1.5.8",
