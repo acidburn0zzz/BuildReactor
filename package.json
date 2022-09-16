@@ -40,7 +40,7 @@
     "angular-route": "^1.5.8",
     "angular-ui-bootstrap": "^2.5.0",
     "angular-ui-utils": "^0.1.1",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "font-awesome": "^4.6.3",
     "rx": "^4.1.0",
     "sortablejs": "^1.5.1",
